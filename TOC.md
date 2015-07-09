@@ -1,0 +1,11 @@
+ - Erlang Programming Rules
+   - [Purpose](purpose.md)
+   - [Structure and Erlang Terminology](structure-erlang-terminology.md)
+   - [SW Engineering Principles](engineering-principles.md)
+   - [Error Handling](error-handling.md)
+   - [Processes, Servers and Messages](processes-servers-messages.md)
+   - [Various Erlang Specific Conventions](various-erlang-specific-conventions.md)
+   - [Specific Lexical and Stylistic Conventions](specific-lexical-stylistic-conventions.md)
+   - [Documenting Code](documenting-code.md)
+   - [The Most Common Mistakes](most-common-mistakes.md)
+   - [Required Documents](required-documents.md)
